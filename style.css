@@ -4,7 +4,7 @@ body {
 }
 
 .calculator-button {
-  background: darkgrey;
+  background-color: darkgrey;
   border: 1px solid dimgray;
   border-radius: 8px;
   display: inline-block;
